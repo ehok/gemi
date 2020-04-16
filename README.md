@@ -1,1 +1,1 @@
-# amk anılı materyalleri ekle
+# gemi :D
