@@ -580,7 +580,7 @@
           "type": "boolean"
         },
         "fontFace": {
-          "default": "Source Code Pro for Powerline",
+          "default": "MesloLGS NF Regular",
           "description": "Name of the font face used in the profile.",
           "type": "string"
         },
